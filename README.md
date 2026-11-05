@@ -2,25 +2,35 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no IFPE – Campus Garanhuns, atualmente no 7º período.
 
-💻 Tenho foco em **Desenvolvimento Web, especialmente Backend**, além de interesse em **análise de dados**, e gosto de transformar problemas em soluções funcionais por meio da programação.
+💻 Tenho interesse em **Desenvolvimento de Software, especialmente Backend, e em Inteligência Artificial**, buscando transformar problemas reais em soluções funcionais por meio da programação.
 
-🚀 Atualmente, busco minha **primeira oportunidade profissional em Desenvolvimento de Software**, onde possa aplicar meus conhecimentos, aprender com projetos reais e contribuir com a equipe.
+🚀 Atualmente, participo do projeto de extensão tecnológica PneumoVision, com foco na aplicação de Visão Computacional à área da saúde, e busco oportunidades para continuar desenvolvendo minhas habilidades em Engenharia de Software e IA.
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
-Tenho experiência acadêmica e em projetos pessoais com desenvolvimento web, APIs, bancos de dados, testes e ferramentas de DevOps.
+Tenho experiência acadêmica e em projetos pessoais com desenvolvimento web, APIs REST, bancos de dados, testes e ferramentas de DevOps.
 
 Meu principal interesse está no desenvolvimento **Backend**, utilizando tecnologias do ecossistema JavaScript/TypeScript, mas também possuo experiência com desenvolvimento Frontend e integração entre diferentes componentes de software.
 
-Além do desenvolvimento web, tenho vivência acadêmica em **Machine Learning, algoritmos de Inteligência Artificial, IoT e comunicação MQTT**, incluindo projetos que integram software, dispositivos embarcados e sistemas web.
+Além do desenvolvimento de software, tenho experiência acadêmica em Machine Learning, Visão Computacional e algoritmos de Inteligência Artificial, com atividades envolvendo Python, scikit-learn, OpenCV, MediaPipe e Google ML Kit. Também desenvolvi projetos envolvendo IoT, comunicação MQTT e integração com dispositivos embarcados.
 
 📚 **Coeficiente de Rendimento (CR): 9,35/10,00**
 
 ---
 
 ## 🚀 Tecnologias e conhecimentos
+
+### Inteligência Artificial e Visão Computacional
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?logo=google&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Google ML Kit](https://img.shields.io/badge/Google_ML_Kit-4285F4?logo=google&logoColor=white)
+
+**Machine Learning • Processamento de Imagens • Detecção de Pose • Análise de Dados**
 
 ### Backend
 
@@ -42,6 +52,8 @@ Além do desenvolvimento web, tenho vivência acadêmica em **Machine Learning, 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react\&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo\&logoColor=white)
 
+React • Next.js • React Native • Expo •
+
 ### Bancos de Dados
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb\&logoColor=white)
@@ -62,14 +74,23 @@ Além do desenvolvimento web, tenho vivência acadêmica em **Machine Learning, 
 
 ### Outras áreas
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?logo=eclipse-mosquitto&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white)
 
-**Machine Learning • Inteligência Artificial • IoT • MQTT • ESP32**
+**Programação Orientada a Objetos • IoT • Sistemas Embarcados • Comunicação MQTT**
 
 ---
 
 ## 📌 Projetos em destaque
+
+### PostureAlert — Detecção de Desvios Posturais
+
+**Flutter • Dart • Google ML Kit • Detecção de Pose**
+
+Protótipo mobile que utiliza detecção de pontos-chave corporais e análise geométrica para identificar possíveis desvios posturais.
+
+🔗 [Repositório](https://github.com/jalmirsiqueira3/posture-alert)
 
 ### 🌊 Sistema de Monitoramento e Gestão Hídrica
 
@@ -108,6 +129,22 @@ Projeto acadêmico com foco em DevOps, incluindo conteinerização, automação 
 Projeto de Machine Learning para comparação de modelos de classificação e análise de métricas de predição.
 
 🔗 [Repositório](https://github.com/jalmirsiqueira3/predicao-diabetes-machine-learning)
+
+---
+
+## 🔬 Experiência Acadêmica e Extensão
+
+### PneumoVision — Bolsista de Extensão Tecnológica
+
+IFPE • INPaR • FACEPE | 2026
+
+Participação em projeto de extensão tecnológica voltado à aplicação de Visão Computacional na avaliação da técnica inalatória, após seleção por desempenho na Capacitação em Visão Computacional e Saúde do IFPE.
+
+### Capacitação em Visão Computacional e Saúde
+
+IFPE • 60 horas | 2026
+
+Formação com atividades práticas envolvendo OpenCV, MediaPipe, processamento de imagens, detecção de pose e fundamentos de Machine Learning e Deep Learning.
 
 ---
 
