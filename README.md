@@ -84,7 +84,7 @@ React • Next.js • React Native • Expo •
 
 ## 📌 Projetos em destaque
 
-### PostureAlert — Detecção de Desvios Posturais
+### 🧍 PostureAlert — Detecção de Desvios Posturais
 
 **Flutter • Dart • Google ML Kit • Detecção de Pose**
 
