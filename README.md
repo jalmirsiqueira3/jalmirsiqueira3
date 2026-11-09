@@ -92,6 +92,8 @@ Protótipo mobile que utiliza detecção de pontos-chave corporais e análise ge
 
 🔗 [Repositório](https://github.com/jalmirsiqueira3/posture-alert)
 
+---
+
 ### 🌊 Sistema de Monitoramento e Gestão Hídrica
 
 **Node.js • Express • React • MongoDB • MQTT • ESP32**
